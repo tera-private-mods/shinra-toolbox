@@ -1,5 +1,5 @@
 {
-    "name": "shinra-meter",
+    "name": "shinra-toolbox",
     "servers": ["http://git.dev.hsdn.org/tera-v92/shinra-toolbox/raw/master/"],
     "author": "Foglio, Gl0, neowutran and others",
     "description": "Shinra DPS meter.",
