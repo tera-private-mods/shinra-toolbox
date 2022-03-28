@@ -2,7 +2,7 @@
     "files": {
         "Autoupdate.deps.json": "95271a7f09e69fdfa0769b58bca6dbae9feacc321667614999de1574f850eca6",
         "Autoupdate.dll": "4f3d7249f66ccfe805bd7469794272143e93fdbe5a350ec6fa58c4186873e21e",
-        "Autoupdate.dll.config": "d121f479faf6bdef96527acb5176e3af92f61c974461c285973d3153f8cfe85c",
+        "Autoupdate.dll.config": "215650f254090064a157073442653a21adff51d0b65cd08d4aa2d33fb7b9ce2d",
         "Autoupdate.exe": "46cb4f624e0108770d49fd9780dbda516ef7234bf6053403c3e72bd6e995c5f1",
         "Autoupdate.runtimeconfig.json": "ede2d61a9d4473600d107f67bee147c66e514ef93eceabe1748c7f400b98743d",
         "DamageMeter.D3D9Render.dll": "9da5ee76dc09ab36602787ed485832a3c98b8c0f1baf0cd1ef743cb537f45755",
@@ -42,7 +42,7 @@
         "SharpPcap.dll": "21c503dbc18755f735dd10dad497557a30f56e11a98cd44b06198067e2a68ac0",
         "ShinraMeter.deps.json": "cf48a21a64f2a55ed483bee384afd1aca9fc0881406ba5e1443a21d5772feb6e",
         "ShinraMeter.dll": "d552025d7e7fea24acf55e019e0d92869832c6fe74b665ae8714d7eede530423",
-        "ShinraMeter.dll.config": "6e0c9d372daa5bab00c9498410948087f0dfd04821fb50837ed4b2e2be5db8e8",
+        "ShinraMeter.dll.config": "31a37cf0983c871777050189853634f7ca3867420fed39c6834e9ff45f30768c",
         "ShinraMeter.exe": "ad309384c81fefda9f50d13180872bc5486bced120eb509aa68127289c89ada9",
         "ShinraMeter.runtimeconfig.json": "ede2d61a9d4473600d107f67bee147c66e514ef93eceabe1748c7f400b98743d",
         "System.ComponentModel.Composition.Registration.dll": "b792e282887ffa377a0716d56b52bfce993b8aa9bec6547bd6f9fb5b4b842549",
