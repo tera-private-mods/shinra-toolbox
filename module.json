@@ -1,6 +1,6 @@
 {
     "name": "shinra-meter",
-    "servers": ["http://git.dev.hsdn.org/tera-v92/shinra-meter/raw/master/"],
+    "servers": ["http://git.dev.hsdn.org/tera-v92/shinra-toolbox/raw/master/"],
     "author": "Foglio, Gl0, neowutran and others",
     "description": "Shinra DPS meter.",
     "disableAutoUpdate": false,
@@ -10,6 +10,6 @@
         "guiName": "Shinra Meter (beta)"
     },
     "dependencies": {
-        "external-interface": "https://git.dev.hsdn.org/tera-v92/external-interface/raw/master/module.json"
+        "external-interface": "http://git.dev.hsdn.org/tera-v92/external-interface/raw/master/module.json"
     }
 }
