@@ -7,7 +7,7 @@
     "keywords": ["client"],
     "options": {
         "cliName": "shinra-meter",
-        "guiName": "Shinra Meter (beta)"
+        "guiName": "Shinra Meter"
     },
     "dependencies": {
         "external-interface": "http://git.dev.hsdn.org/tera-v92/external-interface/raw/master/module.json"
