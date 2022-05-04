@@ -10,6 +10,6 @@
         "guiName": "Shinra Meter"
     },
     "dependencies": {
-        "external-interface": "http://git.dev.hsdn.org/tera-v92/external-interface/raw/master/module.json"
+        "external-interface": "https://raw.githubusercontent.com/tera-private-toolbox/external-interface/master/module.json"
     }
 }
